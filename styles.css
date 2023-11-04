@@ -1,0 +1,39 @@
+.title{
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 50px;
+    background-color: cornsilk;
+    font-family: cursive
+}
+
+.heading{
+    
+text-align: center;
+color: mediumpurple;
+font-size: 30px;
+font-family: cursive
+}
+
+.p{
+    font-size: 30px;
+    color:purple;
+    text-align: center;
+    background-color: cornsilk;
+    font-family: cursive;
+}
+
+.details{
+    font-family: cursive
+}
+
+.paragraph{
+    text-align: center;
+    color: plum;
+    font-size: 16px;
+    background-color: cornsilk;
+    font-family: cursive;
+}
+
+.confettii{
+    text-align: center
+}
